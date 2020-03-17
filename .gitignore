@@ -3,3 +3,4 @@ node_modules/
 qx_packages
 .package-cache.json
 .settings/
+/.vscode

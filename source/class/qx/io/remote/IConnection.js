@@ -15,7 +15,9 @@
      * John Spackman (https://github.com/johnspackman)
 
 ************************************************************************ */
-
+/**
+ * TODO
+ */
 qx.Interface.define("qx.io.remote.IConnection", {
   
   members: {

@@ -15,7 +15,9 @@
      * John Spackman (https://github.com/johnspackman)
 
 ************************************************************************ */
-
+/**
+ * TODO
+ */
 qx.Class.define("qx.io.remote.EndPoint", {
   extend: qx.core.Object,
   implement: [ qx.io.remote.IConnection ],
