@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/qooxdoo/qooxdoo-compiler/master/source/resource/qx/tool/schema/Manifest-1-0-0.json",
   "info": {
-    "name": "incubator.qx.io.remote",
+    "name": "qooxdoo/incubator.qx.io.remote",
     "summary": "Qooxdoo Remote (Incubator)",
     "description": "Qooxdoo Remote Objects",
     "homepage": "https://qooxdoo.org",
